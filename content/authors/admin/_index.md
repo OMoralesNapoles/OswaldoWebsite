@@ -11,7 +11,7 @@ last_name: Morales
 
 # Status emoji
 status: Morales Nápoles
- # icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
