@@ -7,10 +7,10 @@ name_pronunciation: Oswaldo Morales Nápoles
 
 # Full name (for SEO)
 first_name: Oswaldo
-last_name: Morales 
+last_name: Morales Nápoles
 
 # Status emoji
-status: Morales Nápoles
+status: 
   icon: 
 
 # Is this the primary user of the site?
