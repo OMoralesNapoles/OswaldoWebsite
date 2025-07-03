@@ -20,44 +20,40 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Associate Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Delft University of Technology
+    url: https://www.tudelft.nl/staff/o.moralesnapoles/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:o.moralesnapoles@tudelft.nl'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/OMoralesNapoles
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/oswaldo-morales-n%C3%A1poles-8b78323/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=OuFaBygAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-6764-4674
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Structured expert judgment
+  - Bayesian Networks
+  - Vine copulas
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD dissertation: Bayesian Belief Nets and Vines in Aviations Safety and Other Applications
+    institution: Delft University of Technology
+    date_start: 01-09-2004
+    date_end: 2010
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      tbd
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -183,4 +179,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Oswaldo Morales Nápoles is associate professor of probabilistic design. He holds an MSc and PhD in applied mathematics both from Delft University of Technology. His research group is at the intersection of probability and statistics, domain knowledge (civil engineering) and software development. His research group develops Matlab and Python based open source software for Bayesian Belief Networks (BANSHEE & MATLATZINCA), structured expert judgment (ANDURIL) and other tools for representing multidimensional probability distributions (CHIMERA). Application of these tools include mechanics of materials, steel and concrete bridge reliability, earth dams risk analysis, infrastructure network maintenance optimization, flood risk assessment and others. He is Global Community Professor at Universidad de Monterrey in Monterrey Mexico since 2024 and head of the section Hydraulic Structures and Flood Risks at the TU Delft since July 2023.
