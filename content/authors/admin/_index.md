@@ -50,8 +50,8 @@ interests:
 education:
   - area:  Bayesian Belief Nets and Vines in Aviations Safety and Other Applications
     institution: Delft University of Technology
-    date_start: 01-09-2004
-    date_end: 2010
+    date_start: 2004-09-01
+    date_end: 2010-02-10
     summary: |
       tbd
     button:
